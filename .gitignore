@@ -1,3 +1,7 @@
+# User data
+chats_backup.ndjson
+users_backup.ndjson
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
